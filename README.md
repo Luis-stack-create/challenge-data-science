@@ -34,7 +34,7 @@ Este proyecto presenta un análisis detallado del rendimiento de cuatro tiendas,
 
 ## 📉 Visualizaciones Destacadas
 
-- **Gráficos de pastel** para comparar ingresos totales por productos.
+- **Gráficos de pastel** para comparar ingresos totales por cada tienda.
   <img width="766" height="665" alt="image" src="https://github.com/user-attachments/assets/6d95007c-242c-4b44-8596-96b84bed8647" />
 - **Gráfico de tendencia** mostrando los costos de envio por tienda.
   <img width="778" height="575" alt="image" src="https://github.com/user-attachments/assets/eaa7ecc0-c0db-4e90-8952-06d3765be7f6" />
