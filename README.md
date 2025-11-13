@@ -53,7 +53,8 @@ Este proyecto presenta un análisis detallado del rendimiento de cuatro tiendas,
 
 ## 👤 Autor
 
-**Luis Alberto Huamaní Cahuana**  
+**Luis Alberto Huamaní Cahuana** 
+📧 [albert052592@gmail.com]
 📍 Proyecto de análisis y visualización de datos para el programa  Oracle Next Education (ONE) - Alura LATAM.
 
 ---
